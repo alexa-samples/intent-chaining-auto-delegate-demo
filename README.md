@@ -1,3 +1,6 @@
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 # Auto-Delegate & Intent Chaining Demo
 Focus on building the best voice experience, not error handling. With auto delegation, Alexa completes all the dialog steps based on the dialog model, then sends your skill a single IntentRequest when it is done. With this option, you do not need to use the Dialog directives.
 
